@@ -1,0 +1,20 @@
+ * {
+    margin: 0;
+    padding: 0;
+}
+header, main, section, div  {
+    display: block;
+}
+#form-1{
+    background-color: rgb(245, 211, 216);
+}
+.container {
+    max-width: 700px;
+}
+.btn btn-primary{
+    border: none;
+}
+
+#form-2{
+    background-color: rgb(168, 168, 247);
+}
